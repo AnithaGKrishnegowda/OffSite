@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.anasanasanas:material-calendarview:1.4.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7bfdcc092be93261d1f119776be3143/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7bfdcc092be93261d1f119776be3143/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7bfdcc092be93261d1f119776be3143/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.anasanasanas/material-calendarview/1.4.4/d301fff46e5b2e13a0bc903b94ccc5b9f78e95e4/material-calendarview-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
